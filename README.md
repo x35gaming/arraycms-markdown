@@ -5,5 +5,5 @@ go to `./arraycms/cms/`
 extract it to the folder
 add to the bottom of the file:
 ```php
-include('arraycms-markdown-master/markdown.php')
+include('arraycms-markdown-master/markdown.php');
 ```
